@@ -78,7 +78,7 @@ Example:
 }
 ```
 
-##Steps:
+## Steps:
 
 1. Put all the images into ./Image/data folder. <br />
  <br />
