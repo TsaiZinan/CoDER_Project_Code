@@ -1,0 +1,110 @@
+23:21:52 Processing image:  00.jpg
+   23:21:52 [0/7] Original
+   23:21:52 [1/7] Brightening
+   23:22:37 [2/7] Retinex
+   23:25:21 [3/7] CLAHE
+   23:25:21 [4/7] Brightening + Retinex
+   23:28:04 [5/7] Brightening + CLAHE
+   23:28:04 [6/7] Retinex + CLAHE
+   23:28:05 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  00.jpg
+23:28:05 Processing image:  01.jpg
+   23:28:05 [0/7] Original
+   23:28:06 [1/7] Brightening
+   23:28:50 [2/7] Retinex
+   23:31:34 [3/7] CLAHE
+   23:31:34 [4/7] Brightening + Retinex
+   23:34:20 [5/7] Brightening + CLAHE
+   23:34:20 [6/7] Retinex + CLAHE
+   23:34:21 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  01.jpg
+23:34:21 Processing image:  02.jpg
+   23:34:21 [0/7] Original
+   23:34:22 [1/7] Brightening
+   23:35:09 [2/7] Retinex
+   23:39:23 [3/7] CLAHE
+   23:39:24 [4/7] Brightening + Retinex
+   23:43:26 [5/7] Brightening + CLAHE
+   23:43:27 [6/7] Retinex + CLAHE
+   23:43:27 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  02.jpg
+23:43:28 Processing image:  03.jpg
+   23:43:28 [0/7] Original
+   23:43:28 [1/7] Brightening
+   23:44:14 [2/7] Retinex
+   23:48:17 [3/7] CLAHE
+   23:48:17 [4/7] Brightening + Retinex
+   23:52:19 [5/7] Brightening + CLAHE
+   23:52:20 [6/7] Retinex + CLAHE
+   23:52:20 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  03.jpg
+23:52:21 Processing image:  04.jpg
+   23:52:21 [0/7] Original
+   23:52:21 [1/7] Brightening
+   23:53:07 [2/7] Retinex
+   23:57:01 [3/7] CLAHE
+   23:57:02 [4/7] Brightening + Retinex
+   00:01:04 [5/7] Brightening + CLAHE
+   00:01:04 [6/7] Retinex + CLAHE
+   00:01:05 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  04.jpg
+00:01:05 Processing image:  05.jpg
+   00:01:05 [0/7] Original
+   00:01:06 [1/7] Brightening
+   00:01:52 [2/7] Retinex
+   00:06:01 [3/7] CLAHE
+   00:06:02 [4/7] Brightening + Retinex
+   00:10:10 [5/7] Brightening + CLAHE
+   00:10:10 [6/7] Retinex + CLAHE
+   00:10:10 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  05.jpg
+00:10:11 Processing image:  06.jpg
+   00:10:11 [0/7] Original
+   00:10:11 [1/7] Brightening
+   00:10:58 [2/7] Retinex
+   00:15:14 [3/7] CLAHE
+   00:15:14 [4/7] Brightening + Retinex
+   00:19:21 [5/7] Brightening + CLAHE
+   00:19:21 [6/7] Retinex + CLAHE
+   00:19:22 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  06.jpg
+00:19:22 Processing image:  07.jpg
+   00:19:22 [0/7] Original
+   00:19:23 [1/7] Brightening
+   00:20:12 [2/7] Retinex
+   00:24:21 [3/7] CLAHE
+   00:24:21 [4/7] Brightening + Retinex
+   00:28:32 [5/7] Brightening + CLAHE
+   00:28:33 [6/7] Retinex + CLAHE
+   00:28:33 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  07.jpg
+00:28:34 Processing image:  08.jpg
+   00:28:34 [0/7] Original
+   00:28:34 [1/7] Brightening
+   00:29:21 [2/7] Retinex
+   00:33:32 [3/7] CLAHE
+   00:33:33 [4/7] Brightening + Retinex
+   00:37:43 [5/7] Brightening + CLAHE
+   00:37:44 [6/7] Retinex + CLAHE
+   00:37:44 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  08.jpg
+00:37:45 Processing image:  09.jpg
+   00:37:45 [0/7] Original
+   00:37:45 [1/7] Brightening
+   00:38:32 [2/7] Retinex
+   00:43:16 [3/7] CLAHE
+   00:43:16 [4/7] Brightening + Retinex
+   00:48:06 [5/7] Brightening + CLAHE
+   00:48:06 [6/7] Retinex + CLAHE
+   00:48:07 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  09.jpg
+00:48:07 Processing image:  10.jpg
+   00:48:07 [0/7] Original
+   00:48:08 [1/7] Brightening
+   00:48:58 [2/7] Retinex
+   00:53:07 [3/7] CLAHE
+   00:53:08 [4/7] Brightening + Retinex
+   00:57:16 [5/7] Brightening + CLAHE
+   00:57:16 [6/7] Retinex + CLAHE
+   00:57:17 [7/7] Brightening + Retinex + CLAHE
+Processing finished:  10.jpg
