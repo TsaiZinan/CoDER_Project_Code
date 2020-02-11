@@ -83,12 +83,14 @@ result_canny = "Image/result_canny"
 result_crop = "Image/result_crop"
 result_noise = "Image/result_noise"
 result_mask = "Image/mask"
+result_dir = "Result"
 
 img_result_list = os.listdir(result_path)
 img_result_crop = os.listdir(result_crop)
 img_result_canny = os.listdir(result_canny)
 img_result_noise = os.listdir(result_noise)
 img_mask = os.listdir(result_mask)
+result_dir = os.listdir(result_dir)
 
 
 
@@ -161,7 +163,7 @@ for img_name in img_result_crop:
 
 
 #Create CSV file for pixel calculation
-file_name = time.strftime("%Y%m%d-%H%M%S", time.localtime()) + ".csv"
+file_name = "Result/" + time.strftime("%Y%m%d-%H%M%S", time.localtime()) + ".csv"
 open(file_name, "x")
 
 #Pixel calculation and result writing
