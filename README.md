@@ -1,6 +1,6 @@
 # PREPROCESSING-IMAGES-USING-BRIGHTENING-CLAHE-AND-RETINEX
  
-## Author: Zinan Cai (Tsai)
+## Author: Zinan Cai (Tsai), Khanh Nguyen
 
 ## Document Structure
 
