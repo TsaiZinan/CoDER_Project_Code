@@ -6,14 +6,14 @@
 ```
 PREPROCESSING-IMAGES-USING-BRIGHTENING-CLAHE-AND-RETINEX <br />
 ├── Image 
-    ├── data 
-    ├── mask 
-    ├── result_process 
-    ├── result_crop 
-    ├── result_canny 
-    └── result_noise 
+│   ├── data 
+│   ├── mask 
+│   ├── result_process 
+│   ├── result_crop 
+│   ├── result_canny 
+│   └── result_noise 
 ├── Result
-    └── [current_time].csv
+│   └── [current_time].csv
 ├── Preprocessing.py
 ├── crop.py
 ├── config_processing.json
