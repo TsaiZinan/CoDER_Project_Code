@@ -1,19 +1,20 @@
 # PREPROCESSING-IMAGES-USING-BRIGHTENING-CLAHE-AND-RETINEX
  
+## Author: Zinan Cai (Tsai), Thi Phuoc Hanh Nguyen, Khanh Nguyen
 
 ## Document Structure
 
 ```
 PREPROCESSING-IMAGES-USING-BRIGHTENING-CLAHE-AND-RETINEX <br />
 ├── Image 
-    ├── data 
-    ├── mask 
-    ├── result_process 
-    ├── result_crop 
-    ├── result_canny 
-    └── result_noise 
+│   ├── data 
+│   ├── mask 
+│   ├── result_process 
+│   ├── result_crop 
+│   ├── result_canny 
+│   └── result_noise 
 ├── Result
-    └── [current_time].csv
+│   └── [current_time].csv
 ├── Preprocessing.py
 ├── crop.py
 ├── config_processing.json
@@ -86,7 +87,7 @@ Example:
 2. Run the ./Preprocessing.py. You can change the parameter in ./config.json if you wish. <br />
  <br />
  
-3. Mark all the target you want to crop out and recoed the coordinates into ./config.json as "x", "y", "height" and "width". "image_number" and "crop_number" are needed to record as well. <br />
+3. Mark all the targets you want to crop out and recoed the coordinates into ./config.json as "x", "y", "height" and "width". "image_number" and "crop_number" are needed to record as well. <br />
 Example: <br />
 ![Imgur](https://i.imgur.com/DkmdrHu.jpg)
 <br />
@@ -108,5 +109,8 @@ Example:
 00.01_crop_2_noise_reduce.jpg  2826  224253
 ```
  <br />
+ 
+ ## Ps:
+ If the program can't output the result images properly without any error, try rerun the crop.py few more times. </br>
  
 
